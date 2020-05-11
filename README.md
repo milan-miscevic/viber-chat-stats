@@ -1,5 +1,7 @@
 # viber-chat-stats
 
+*Note: The Viber Android application no longer supports the Email message history option.*
+
 ## Usage
 
 1. Create a backup of chat history with Android application (Settings -> Calls and messages -> Email message history)
